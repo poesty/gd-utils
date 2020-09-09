@@ -4,7 +4,7 @@
 <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=10,IE=9,IE=8">
-    <title>[TITLE] | Powered by Snap2HTML & GD-Utils</title>
+    <title>[TITLE] | by poesty </title>
     <style type="text/css">
     html,
     body {
@@ -3256,7 +3256,7 @@
                 <div onclick="javascript:alert('Search Tips:\n\nUse * and ? as wildcards. * matches zero or more characters, ? matches exactly one character.\n\nPrefix your search with &gt; to search only the current folder or &gt;&gt; to search the current folder and sub folders.');" class="app_header_search_help">?</div>
             </form>
             <h1>[TITLE]</h1>
-            <div class="app_header_stats">[NUM FILES] files in [NUM DIRS] folders (<span id="tot_size">[TOT SIZE]</span>)<br>Generated at [GEN DATE] by <a target="_blank" href="https://github.com/rlv-dan/Snap2HTML">Snap2HTML</a> and <a target="_blank" href="https://github.com/iwestlin/gd-utils">GD-Utils</a></div>
+            <div class="app_header_stats">[NUM FILES] files in [NUM DIRS] folders (<span id="tot_size">[TOT SIZE]</span>)<br>Generated at [GEN DATE] by <a target="_blank" href="https://github.com/rlv-dan/Snap2HTML">Snap2HTML</a> and <a target="_blank" href="https://t.me/poesty">poesty</a></div>
         </div>
         <div id="loading" class="loading"><b>Loading...</b>
             <p class="loading_info">(if nothing happens, make sure javascript is enabled and allowed to execute, or try another browser)</p>
